@@ -1,1 +1,1 @@
-# -Wind-and-photovoltaic
+# Wind-and-photovoltaic
